@@ -1,0 +1,19 @@
+.small{
+    background-color: pink;
+    font-family: verdana, sans-serif;
+    
+}
+.large{
+    font-size: 24px;
+   
+
+}
+#plain{
+    color: blue;
+    font-size: 36px;
+}
+#color{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
